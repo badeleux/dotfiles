@@ -1,0 +1,17 @@
+{
+    "languageserver": {
+        "flow": {
+            "command": "flow",
+            "args": ["lsp"],
+            "filetypes": ["javascript", "javascript.jsx"],
+            "initializationOptions": {},
+            "requireRootPattern": true,
+            "settings": {},
+            "rootPatterns": [".flowconfig"]
+        }
+    },
+    "eslint": {
+        "autoFixOnSave": true,
+        "options": { "configFile": ".eslintrc" }
+    }
+}

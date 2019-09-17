@@ -1,0 +1,9 @@
+{
+	"telemetry": {
+		"enabled": true,
+		"machineId": "21f64000-8f9b-11e9-9146-7d55aec631f2"
+	},
+	"cli": {
+		"packageManager": "yarn"
+	}
+}
